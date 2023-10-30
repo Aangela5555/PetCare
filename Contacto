@@ -1,1 +1,8 @@
-
+<p class="foFAdY" id="comp-lmggxgoo2label" style="text-align: center; line-height: 30px;">Contacto</p>
+<span style="font-family:cormorantgaramond-light,cormorantgaramond,cormorant garamond,serif;" class="wixui-rich-text__text">CONTÁCTENOS</span>
+<label for="input_content-comp-lmggyqdc2" class="wPeA6j wixui-text-input__label">Nombre</label>
+<label for="input_content-comp-lmggyqde2" class="wPeA6j wixui-text-input__label">Email</label>
+<label for="input_content-comp-lmggyqdf4" class="wPeA6j wixui-text-input__label">Asunto</label>
+<label for="textarea_comp-lmggyqdh1" class="PSkPrR wixui-text-box__label">Mensaje</label>
+<button aria-disabled="false" data-testid="buttonElement" class="kuTaGy wixui-button zKbzSQ"><span class="M3I7Z2 wixui-button__label">Enviar</span></button>
+<b class="gm-marker-title">Calle Perú, Arequipa, Peru</b>
